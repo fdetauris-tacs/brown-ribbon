@@ -6,4 +6,4 @@
 
 **English.** The brown ribbon is a quiet protest against the removal of scat content from ThisVid and a sign of solidarity with the community that found a place to connect there. You can download the image and use it on your profile to show your support.
 
-[Scarica il PNG / Download the PNG](../../releases/download/v1.0.0/brown-ribbon.png)
+[Scarica il PNG / Download the PNG](../../releases/download/v1.0.0/brown-ribbon.png?updated=796609694)
